@@ -25,7 +25,6 @@
     </build>
     <modules>
         <module>API</module>
-        <module>Bukkit</module>
     </modules>
 
     <repositories>
